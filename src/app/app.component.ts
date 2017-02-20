@@ -1,6 +1,5 @@
 import { Component } from '@angular/core';
-
-import { AppState } from './app.service';
+import { CityPipe } from './shared/pipes/city.pipe';
 
 @Component({
   selector: 'app',
